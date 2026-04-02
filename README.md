@@ -1,4 +1,4 @@
-# 📊 Electronic Sales Cancellation Analysis
+# Order Cancellation Analytics — Chi-Square, Risk Segmentation & Pareto ROI in Python
 
 > **A end-to-end business analytics project investigating order cancellation drivers, customer risk segmentation, and ROI-driven intervention recommendations for an electronics retailer.**
 
